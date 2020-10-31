@@ -1,0 +1,5 @@
+bool __cdecl WindowManager::setActiveWindow(struct AbstractWindow *): changing active window from 0000000000000000 to 0000017A7744A5A0
+bool __cdecl WindowManager::setActiveWindow(struct AbstractWindow *): changing active window from 0000017A7744A5A0 to 0000017A7744A610
+bool __cdecl WindowManager::setActiveWindow(struct AbstractWindow *): changing active window from 0000017A7744A610 to 0000017A7744A450
+void __cdecl WindowManager::processEvents(void): key =  (27), active window = 0000017A7744A450
+void __cdecl WindowManager::processEvents(void): getActiveWindow -> onKeyDown (key) = 1
